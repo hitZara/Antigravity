@@ -1,10 +1,9 @@
 {
   "name": "antigravity-zh-cn-2.35.2",
-  "version": "2.35.2",
+  "version": "2.36.0",
   "private": true,
   "description": "Unofficial Simplified Chinese localization patch builder for Antigravity 2.35.2",
   "license": "MIT",
   "engines": { "node": ">=18.18.0" },
   "scripts": { "now": "node localize.js --now" }
 }
-
